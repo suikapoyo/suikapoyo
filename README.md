@@ -9,7 +9,7 @@
   <a href="https://open.spotify.com/user/n7kwaa9tfsq4czu2hcwmzuz4n"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 
 ### ✨ Hello, I'm Julia
-  An aspiring Java developer currently pursuing a degree in System Analysis and Development!!
+  An aspiring Front-End developer currently pursuing a degree in System Analysis and Development!!
 
  <details>
    <summary>📖 Learning</summary>
